@@ -82,10 +82,12 @@
 <div>
   <h1>FUTURE PROJECTS?:...</h1>
   <p>work in progress...</p>
+  <img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/f4c3d236-d8a5-4147-a186-b76b0bd26b2b" />
+  <h6>⊹ ₊  ⁺‧₊˚ ♡ ପ(๑•ᴗ•๑)ଓ ♡˚₊‧⁺ ₊ ⊹</h6>
 </div>
 
 <div align="center">
-  <p>That's All everyone! Good bye</p>
+  <p>That's All everyone! Byeee~</p>
 </div>
 <img width="1119" height="100" alt="image" src="https://github.com/user-attachments/assets/0d110021-1cd6-4a40-8c20-65b4899e1fbc" />
 
