@@ -36,8 +36,8 @@
   </div>
   <!-- Div for the Frame works and Libraries text -->
   <div align="center">
-    <img width="500" height="280" alt="bfac4adeabc7187e30d10a1952bcd98f" src="https://github.com/user-attachments/assets/9f689a91-d42c-4ad1-bc14-26fb9443cc6f" />
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFAAE3&vCenter=true&width=435&lines=Frameworks+and+Libraries" alt="Typing SVG" /></a>
+    <img width="500" height="280" alt="bfac4adeabc7187e30d10a1952bcd98f" src="https://github.com/user-attachments/assets/9f689a91-d42c-4ad1-bc14-26fb9443cc6f" />
   </div>
   <!-- the images for the frameworks and libraries -->
   <div align="center">
