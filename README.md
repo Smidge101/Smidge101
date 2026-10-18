@@ -13,7 +13,25 @@
 </div>
 
 <!-- MY TECH STACK -->
-
+<div>
+  <h1>𝙼𝚢 𝚃𝚎𝚌𝚔 𝚂𝚝𝚊𝚌𝚔</h1>
+  <h6>I see you peeking~</h6>
+  <div align="center">
+    <h4>Below are my tech skills, take a look! ♡(.◜ω◝.)♡</h4>
+    <div align="center">
+      <h2>Coding Languages</h2>
+      <img alt="Static Badge" src="https://img.shields.io/badge/HTML-pink">
+      <img alt="Static Badge" src="https://img.shields.io/badge/CSS-white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-green">
+      <img alt="Static Badge" src="https://img.shields.io/badge/C-pink">
+      <img alt="Static Badge" src="https://img.shields.io/badge/PHP-white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Python-green">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Java-pink">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Java__script-white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/SQL-green">
+    </div>
+  </div>
+</div>
 
 
 
