@@ -17,20 +17,16 @@
   <h1>𝙼𝚢 𝚃𝚎𝚌𝚔 𝚂𝚝𝚊𝚌𝚔</h1>
   <h6>Below are my tech skills, take a look! ♡(.◜ω◝.)♡</h6>
   <div align="center">
-    <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFAAE3&width=435&lines=Coding+Languages" alt="Typing SVG" /></a>
-      
-      <img alt="Static Badge" src="https://img.shields.io/badge/HTML-pink">
-      <img alt="Static Badge" src="https://img.shields.io/badge/CSS-white">
-      <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-green">
-      <img alt="Static Badge" src="https://img.shields.io/badge/C-pink">
-      <img alt="Static Badge" src="https://img.shields.io/badge/PHP-white">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Python-green">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Java-pink">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Java__script-white">
-      <img alt="Static Badge" src="https://img.shields.io/badge/SQL-green">
-    </div>
-  </div>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFAAE3&width=435&lines=Coding+Languages" alt="Typing SVG" /></a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/HTML-pink">
+    <img alt="Static Badge" src="https://img.shields.io/badge/CSS-white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-green">
+    <img alt="Static Badge" src="https://img.shields.io/badge/C-pink">
+    <img alt="Static Badge" src="https://img.shields.io/badge/PHP-white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Python-green">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Java-pink">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Java__script-white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/SQL-green">
 </div>
 
 
