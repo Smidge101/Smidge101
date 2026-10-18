@@ -7,7 +7,8 @@
   <h5><b>20, Full-stack and Back-end Development, fun ig</b></h5> 
   <img width="500" height="280" alt="f7b17115c51cede54102187d03915e2d" src="https://github.com/user-attachments/assets/b1f7dbf9-64cb-44ee-aae7-4556de2d8922" />
   <p>ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•</p>
-  <p>Hello! My name is Lauren and welcome to my Github profile. This is where I'll be posting my projects that I will be working on. I hope you enjoy looking through my profile! ヽ(*⌒∇⌒*)ﾉ</p>
+  <em>"Be uncomfortable for a year or two to be comfortable for the rest of the years to come.~"</em>
+  <p>Hello! My name is Lauren and welcome to my Github profile! This is where I'll be posting my projects that I will be working on. I hope you enjoy looking through my profile! ヽ(*⌒∇⌒*)ﾉ</p>
 </div>
 
 <!-- MY TECH STACK -->
