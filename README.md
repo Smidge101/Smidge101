@@ -41,7 +41,13 @@
   </div>
   <!-- the images for the frameworks and libraries -->
   <div align="center">
-
+    <img alt="Static Badge" src="https://img.shields.io/badge/Django-pink">
+    <img alt="Static Badge" src="https://img.shields.io/badge/React-white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Discord-green">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-pink">
+    <img alt="Static Badge" src="https://img.shields.io/badge/NumPy-white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/OpenAi-green">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Hugging_Face-pink">
   </div>
 </div>
 
