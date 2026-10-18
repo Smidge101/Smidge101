@@ -67,12 +67,13 @@
   </div>
 </div>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Smidge101&layout=donut&langs_count=5&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=Smidge101&layout=donut&langs_count=5&theme=vue)
+
 
 <!-- Git Hub Stats -->
 <div>
   <h1>MY GITHUB STATS</h1>
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Smidge101&layout=donut&langs_count=5&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=Smidge101&layout=donut&langs_count=5&theme=vue)
 </div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Smidge101&layout=donut&langs_count=5&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=Smidge101&layout=donut&langs_count=5&theme=vue)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Smidge101&show_icons=true&include_all_commits=true&theme=shadow_green)](https://github-stats-extended.vercel.app/api?username=Smidge101&show_icons=true&include_all_commits=true&theme=shadow_green)
 
 
