@@ -41,6 +41,7 @@
   </div>
   <!-- the images for the frameworks and libraries -->
   <div align="center">
+    <h6>⊹ ₊  ⁺‧₊˚ ♡ ପ(๑•ᴗ•๑)ଓ ♡˚₊‧⁺ ₊ ⊹</h6>
     <img alt="Static Badge" src="https://img.shields.io/badge/Django-pink">
     <img alt="Static Badge" src="https://img.shields.io/badge/React-white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Discord-green">
@@ -48,6 +49,15 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/NumPy-white">
     <img alt="Static Badge" src="https://img.shields.io/badge/OpenAi-green">
     <img alt="Static Badge" src="https://img.shields.io/badge/Hugging_Face-pink">
+  </div>
+  <!-- the div for dev tools -->
+  <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=39&pause=1000&color=FFAAE3&vCenter=true&width=435&lines=Developer+Tools" alt="Typing SVG" /></a>
+    <img width="480" height="270" alt="e86185127cd061d79adaa95b7bd04c99" src="https://github.com/user-attachments/assets/d4469f51-4d4b-4c93-8dc7-17c428f347ad" />
+  </div>
+  <!-- Div for dev tools images -->
+  <div align="center">
+    <h6>⊹ ₊  ⁺‧₊˚ ♡ ପ(๑•ᴗ•๑)ଓ ♡˚₊‧⁺ ₊ ⊹</h6>
   </div>
 </div>
 
