@@ -58,6 +58,12 @@
   <!-- Div for dev tools images -->
   <div align="center">
     <h6>⊹ ₊  ⁺‧₊˚ ♡ ପ(๑•ᴗ•๑)ଓ ♡˚₊‧⁺ ₊ ⊹</h6>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Git-pink">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Docker-white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Linux-green">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Vs_Code-pink">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Py__charm-white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Miniconda-green">
   </div>
 </div>
 
