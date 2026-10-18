@@ -18,7 +18,7 @@
   <h6>Below are my tech skills, take a look! ♡(.◜ω◝.)♡</h6>
   <!-- Div for Coding language image -->
   <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFAAE3&width=435&lines=Coding+Languages" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FFAAE3&vCenter=true&width=435&lines=Coding+Languages" alt="Typing SVG" /></a>
   </div>
   <!-- Div for the actual languages -->
   <div align="center">
