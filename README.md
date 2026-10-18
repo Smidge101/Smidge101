@@ -19,6 +19,7 @@
   <div align="center">
     <div align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFAAE3&width=435&lines=Coding+Languages" alt="Typing SVG" /></a>
+      
       <img alt="Static Badge" src="https://img.shields.io/badge/HTML-pink">
       <img alt="Static Badge" src="https://img.shields.io/badge/CSS-white">
       <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-green">
