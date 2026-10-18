@@ -71,7 +71,7 @@
 
 <!-- Git Hub Stats -->
 <div>
-  <h1>MY GITHUB STATS</h1>
+  <h1>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜</h1>
 </div>
 
 
@@ -80,14 +80,14 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Smidge101&layout=donut&langs_count=5&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=Smidge101&layout=donut&langs_count=5&theme=vue)
 
 <div>
-  <h1>FUTURE PROJECTS?:...</h1>
+  <h1>𝙵𝚞𝚝𝚞𝚛𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜?...</h1>
   <p>work in progress...</p>
   <img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/f4c3d236-d8a5-4147-a186-b76b0bd26b2b" />
-  <h6>⊹ ₊  ⁺‧₊˚ ♡ ପ(๑•ᴗ•๑)ଓ ♡˚₊‧⁺ ₊ ⊹</h6>
+  <h6 alignt="center">⊹ ₊  ⁺‧₊˚ ♡ ପ(๑•ᴗ•๑)ଓ ♡˚₊‧⁺ ₊ ⊹</h6>
 </div>
 
 <div align="center">
-  <p>That's All everyone! Byeee~</p>
+  <p>(っ◔◡◔)っ ♥ That's all for now, Byee~ ♥</p>
 </div>
 <img width="1119" height="100" alt="image" src="https://github.com/user-attachments/assets/0d110021-1cd6-4a40-8c20-65b4899e1fbc" />
 
