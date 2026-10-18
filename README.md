@@ -17,6 +17,7 @@
   <h1>𝙼𝚢 𝚃𝚎𝚌𝚔 𝚂𝚝𝚊𝚌𝚔</h1>
   <h6>Below are my tech skills, take a look! ♡(.◜ω◝.)♡</h6>
   <!-- Div for Coding language image -->
+  <img width="400" height="224" alt="animesher com_beautiful-anime-girl-gif-1874716" src="https://github.com/user-attachments/assets/becb0619-8137-48df-a933-67c52d4bf7b7" />
   <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FFAAE3&vCenter=true&width=435&lines=Coding+Languages" alt="Typing SVG" /></a>
   </div>
@@ -39,7 +40,6 @@
   </div>
   <!-- the images for the frameworks and libraries -->
   <div align="center">
-    <img width="400" height="224" alt="animesher com_beautiful-anime-girl-gif-1874716" src="https://github.com/user-attachments/assets/becb0619-8137-48df-a933-67c52d4bf7b7" />
 
   </div>
 </div>
