@@ -5,6 +5,7 @@
 <div align="center">
   <h2>:｡･:*:･ﾟ’★,｡･:*:･ﾟ’☆>ᴀʙᴏᴜᴛ ᴍᴇ!:｡･:*:･ﾟ’★,｡･:*:･ﾟ’☆</h2>
   <h5><b>20, Full-stack and Back-end Development, fun ig</b></h5> 
+  <img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/e38bdae6-e791-4696-ae62-1fce3597e41d" />
   <p>Hello! My name is Lauren and welcome to my Github profile. This is where I'll be posting my projects that I will be working on. I hope you enjoy looking through my profile!</p>
 </div>
 
